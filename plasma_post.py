@@ -1,6 +1,7 @@
 # ***************************************************************************
 # *   Custom Plasma CNC Postprocessor                                      *
 # *   Enhanced with custom command handling and plasma features            *
+# *   C:\Program Files\FreeCAD 1.0\Mod\CAM\Path\Post\scripts\plasma_post.py *
 # ***************************************************************************
 
 import FreeCAD
